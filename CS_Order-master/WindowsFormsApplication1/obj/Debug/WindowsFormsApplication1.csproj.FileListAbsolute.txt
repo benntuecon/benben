@@ -1,0 +1,32 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SimpleCase.LoginPanel.resources
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\SimpleCase.LoginPanel.resources
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\SimpleCase.MainPage.resources
+C:\Users\user\Documents\GitHub\tree\CS_Order\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CA_Form.resources
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CA_Form.resources
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\SimpleCase.LoginPanel.resources
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\SimpleCase.MainPage.resources
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\CHEN\Desktop\CS_Order-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
